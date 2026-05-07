@@ -1,11 +1,9 @@
-// Question: Compare two strings
+// Question: Copy one string into another
 #include <iostream>
 using namespace std;
 int main() {
-    string a, b;
-    cin >> a >> b;
-    if(a == b)
-        cout << "Equal";
-    else
-        cout << "Not Equal";
+    string str, copy;
+    cin >> str;
+    copy = str;
+    cout << copy;
 }
