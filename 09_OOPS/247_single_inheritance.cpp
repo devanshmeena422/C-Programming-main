@@ -1,4 +1,4 @@
-// Question: Demonstrate single inheritance
++// Question: Demonstrate single inheritance
 #include <iostream>
 using namespace std;
 class Parent {
