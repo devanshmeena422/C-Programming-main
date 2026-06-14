@@ -18,4 +18,4 @@ int main() {
         temp = temp->next;
     }
     cout << count;
-}add count nodes
+}
